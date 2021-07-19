@@ -8,10 +8,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LICENSE](https://img.shields.io/github/license/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)&nbsp;
 ![Repository Size](https://img.shields.io/github/repo-size/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)
+![Issues](https://img.shields.io/github/issues/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)&nbsp;
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)&nbsp;
-![Issues](https://img.shields.io/github/issues/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)&nbsp;
+
 ![Forks](https://img.shields.io/github/forks/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)&nbsp;
 ![Stars](https://img.shields.io/github/stars/thesilentdevka/MalluManagerBot?style=for-the-badge&logo=appveyor)
 
