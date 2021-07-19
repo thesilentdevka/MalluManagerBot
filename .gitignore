@@ -1,11 +1,28 @@
+*.m4a
+*.apk
+spam_mod.py
+*.c
+exec
+*.out
+__pycache__
+*.opus
+unknown_errors.txt
+*.jpg
+token.py
+*.raw
+images/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.png
+*.mp4
+*.webm
 *$py.class
-
+*.mp3
+.
 # C extensions
 *.so
-
+config.py
 # Distribution / packaging
 .Python
 build/
@@ -91,12 +108,8 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
+# celery beat schedule file
 celerybeat-schedule
-celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
@@ -127,3 +140,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.ini
+*.pyc
+*.session
+*.session-journal
+
+# vim
+[._]*.sw[a-p]
+
+#others
+neofetch.txt
+error.log
+permissions.json
+.vscode
